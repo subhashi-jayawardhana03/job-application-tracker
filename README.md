@@ -169,8 +169,7 @@ Frontend runs on `http://localhost:5173`
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/subhashi-jayawardhana03)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: https://github.com/subhashi-jayawardhana03
 
 ---
 
